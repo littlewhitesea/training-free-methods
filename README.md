@@ -1,5 +1,5 @@
 # awesome-training-free-methods
-This is a repository to collect training-free algorithms
+This is a repository to collect recent training-free algorithms
 
 ## Image Manipulation
 
