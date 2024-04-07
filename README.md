@@ -1,6 +1,12 @@
 # awesome-training-free-methods
 This is a repository to collect recent training-free algorithms, which can run on a low-end GPU card such as Tesla T4.
 
+## Style Transfer
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer.**<br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
+
 ## Image Manipulation
 
 **Training-Free Consistent Text-to-Image Generation.**<br>
