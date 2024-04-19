@@ -13,6 +13,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models.**<br>
+*Wei Wu, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni B. Chan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.11895.pdf)] <br>
+
 **Training-Free Consistent Text-to-Image Generation.**<br>
 *Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://consistory-paper.github.io/)<br>
