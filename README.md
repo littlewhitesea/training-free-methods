@@ -13,6 +13,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**DemoFusion: Democratising High-Resolution Image Generation With No $$$.**<br>
+*Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2311.16973.pdf)] [[Project]](https://ruoyidu.github.io/demofusion/demofusion.html) [[Code]](https://github.com/PRIS-CV/DemoFusion)<br>
+
 **HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models.**<br>
 *Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Zhenyuan Chen, Yao Tang, Yuhao Chen, Wengang Cao, Jiajun Liang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2311.17528.pdf)] [[Project]](https://hidiffusion.github.io/) [[Code]](https://github.com/megvii-research/HiDiffusion)<br>
