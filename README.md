@@ -13,6 +13,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.**<br>
+*Mingbao Lin, Zhihang Lin, Wengyi Zhan, Liujuan Cao, Rongrong Ji.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.15141.pdf)] [[Project]](https://github.com/lmbxmu/CutDiffusion)<br>
+
 **FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models.**<br>
 *Wei Wu, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni B. Chan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.11895.pdf)] <br>
