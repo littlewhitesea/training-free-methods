@@ -6,6 +6,7 @@ This is a repository to collect recent training-free algorithms, which can run o
 **Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer.**<br>
 *Yanqi Ge, Jiaqi Liu, Qingnan Fan, Xi Jiang, Ye Huang, Shuai Qin, Hong Gu, Wen Li, Lixin Duan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
+Comments: It aims to achieve the style editing of the source image. Specifically, it divides the target prompt into a content prompt and style prompt, and then the cross-attention results of the two prompts are adaptively fused. Through this kind way, the proposed method could improve the style editing outcomes.
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer.**<br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
