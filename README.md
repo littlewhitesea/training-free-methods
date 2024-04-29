@@ -14,6 +14,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion.**<br>
+*Ziyue Zhang, Mingbao Lin, Rongrong Ji.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.17230)]<br>
+
 **DemoFusion: Democratising High-Resolution Image Generation With No $$$.**<br>
 *Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2311.16973.pdf)] [[Project]](https://ruoyidu.github.io/demofusion/demofusion.html) [[Code]](https://github.com/PRIS-CV/DemoFusion)<br>
