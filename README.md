@@ -1,6 +1,12 @@
 # awesome-training-free-methods
 This is a repository to collect recent training-free algorithms, which can run on a low-end GPU card such as Tesla T4.
 
+## Material Transfer
+
+**ZeST: Zero-Shot Material Transfer from a Single Image.**<br>
+*Ta-Ying Cheng, Prafull Sharma, Andrew Markham, Niki Trigoni, Varun Jampani.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchengab.github.io/zest/)] [[Code]](https://github.com/ttchengab/zest_code)<br>
+
 ## Style Transfer
 
 **Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer.**<br>
