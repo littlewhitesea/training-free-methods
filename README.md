@@ -20,6 +20,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation.**<br>
+*Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, Xipeng Cao, Quan Chen, Han Li, Di Dong, Peng Jiang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.06948)]<br>
+
 **ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion.**<br>
 *Ziyue Zhang, Mingbao Lin, Rongrong Ji.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.17230)]<br>
