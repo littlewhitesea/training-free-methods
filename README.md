@@ -66,6 +66,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Video Editing
 
+**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices.**<br>
+*Nathaniel Cohen, Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli.*<br>
+ICML 2024. [[PDF](https://arxiv.org/pdf/2405.12211)] [[Project](https://matankleiner.github.io/slicedit/)] [[Code]](https://matankleiner.github.io/slicedit/)<br>
+
 **FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing.**<br>
 *Yuren Cong, Mengmeng Xu, Christian Simon, Shoufa Chen, Jiawei Ren, Yanping Xie, Juan-Manuel Perez-Rua, Bodo Rosenhahn, Tao Xiang, Sen He.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flatten-video-editing.github.io/)] [[Code]](https://github.com/yrcong/flatten)<br>
