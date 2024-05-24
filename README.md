@@ -20,6 +20,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition.**<br>
+*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2405.13870)] [[Code]](https://github.com/aim-uofa/FreeCustom)<br>
+
 **Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model.**<br>
 *Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao.*<br>
 Siggraph 2024. [[PDF](https://arxiv.org/pdf/2405.10316)] [[Project](https://analogist2d.github.io/)] [[Code]](https://github.com/edward3862/Analogist)<br>
