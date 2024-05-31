@@ -9,6 +9,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttcheng
 
 ## Style Transfer
 
+**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control.**<br>
+*Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.17401)] [[Project](https://rb-modulation.github.io/)] [[Code]](https://github.com/LituRout/RB-Modulation)<br>
+
 **Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer.**<br>
 *Yanqi Ge, Jiaqi Liu, Qingnan Fan, Xi Jiang, Ye Huang, Shuai Qin, Hong Gu, Wen Li, Lixin Duan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
