@@ -24,6 +24,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
+*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
+
 **FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition.**<br>
 *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2405.13870)] [[Code]](https://github.com/aim-uofa/FreeCustom)<br>
