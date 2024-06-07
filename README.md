@@ -24,6 +24,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**Coherent Zero-Shot Visual Instruction Generation.**<br>
+*Quynh Phung, Songwei Ge, Jia-Bin Huang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.04337)] [[Project](https://instruct-vis-zero.github.io/)]<br>
+
 **DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
 *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
