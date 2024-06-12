@@ -9,6 +9,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttcheng
 
 ## Style Transfer
 
+**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models.**<br>
+*Sooyeon Go, Kyungmook Choi, Minjung Shin, Youngjung Uh.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07008)] [[Project](https://sooyeon-go.github.io/eye_for_an_eye/)] [[Code]](https://github.com/sooyeon-go/eye_for_an_eye)<br>
+
 **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance.**<br>
 *Kuan Heng Lin, Sicheng Mo, Ben Klingher, Fangzhou Mu, Bolei Zhou.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] [[Code]](https://github.com/genforce/ctrl-x)<br>
