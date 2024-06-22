@@ -9,6 +9,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttcheng
 
 ## Style Transfer
 
+**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models.**<br>
+*Feihong He, Gang Li, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2401.15636)] [[Project](https://freestylefreelunch.github.io/)] [[Code]](https://github.com/FreeStyleFreeLunch/FreeStyle)<br>
+
 **Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models.**<br>
 *Sooyeon Go, Kyungmook Choi, Minjung Shin, Youngjung Uh.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07008)] [[Project](https://sooyeon-go.github.io/eye_for_an_eye/)] [[Code]](https://github.com/sooyeon-go/eye_for_an_eye)<br>
