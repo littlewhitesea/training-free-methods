@@ -36,6 +36,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance.**<br>
+*Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.16476)] [[Project](https://shuweis.github.io/ResMaster/)] [[Code]](https://github.com/Shuweis/ResMaster)<br>
+
 **Coherent Zero-Shot Visual Instruction Generation.**<br>
 *Quynh Phung, Songwei Ge, Jia-Bin Huang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.04337)] [[Project](https://instruct-vis-zero.github.io/)]<br>
