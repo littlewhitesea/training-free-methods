@@ -78,7 +78,7 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2311.16973.pdf)] [[Project]](https://ruo
 
 **HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models.**<br>
 *Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Zhenyuan Chen, Yao Tang, Yuhao Chen, Wengang Cao, Jiajun Liang.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2311.17528.pdf)] [[Project]](https://hidiffusion.github.io/) [[Code]](https://github.com/megvii-research/HiDiffusion)<br>
+ECCV 2024. [[PDF](https://arxiv.org/pdf/2311.17528.pdf)] [[Project]](https://hidiffusion.github.io/) [[Code]](https://github.com/megvii-research/HiDiffusion)<br>
 
 **CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.**<br>
 *Mingbao Lin, Zhihang Lin, Wengyi Zhan, Liujuan Cao, Rongrong Ji.*<br>
