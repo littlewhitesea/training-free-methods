@@ -40,6 +40,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**AccDiffusion: An Accurate Method for Higher-Resolution Image Generation.**<br>
+*Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.10738v2)] [[Project](https://lzhxmu.github.io/accdiffusion/accdiffusion.html)] [[Code]](https://github.com/lzhxmu/AccDiffusion)<br>
+
 **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance.**<br>
 *Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.16476)] [[Project](https://shuweis.github.io/ResMaster/)] [[Code]](https://github.com/Shuweis/ResMaster)<br>
