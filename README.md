@@ -9,6 +9,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttcheng
 
 ## Style Transfer
 
+**Artist: Aesthetically Controllable Text-Driven Stylization without Training.**<br>
+*Ruixiang Jiang, Changwen Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.15842)] [[Project](https://diffusionartist.github.io/)] [[Code]](https://github.com/songrise/artist)<br>
+
 **Visual Style Prompting with Swapping Self-Attention.**<br>
 *Jaeseok Jeong, Junho Kim, Yunjey Choi, Gayoung Lee, Youngjung Uh.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.12974)] [[Project](https://curryjung.github.io/VisualStylePrompt/)] [[Code]](https://github.com/naver-ai/Visual-Style-Prompting)<br>
