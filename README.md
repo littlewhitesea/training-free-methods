@@ -1,4 +1,4 @@
-# awesome-training-free-methods
+# training-free-methods
 This is a repository to collect recent training-free algorithms, which can run on a low-end GPU card such as Tesla T4.
 
 ## Material Transfer
