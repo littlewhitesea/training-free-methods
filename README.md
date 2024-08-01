@@ -1,5 +1,5 @@
 # training-free-methods
-This is a repository to collect recent training-free algorithms, which can run on a single GPU with no more than 24GB.
+This is a repository to collect recent training-free algorithms that can run on a single GPU with no more than 24GB of memory.
 
 ## Multimodal Large Language Models
 
