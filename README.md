@@ -7,6 +7,10 @@ This is a repository to collect recent training-free algorithms that can run on 
 *Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
 
+**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs.**<br>
+*Shi Liu, Kecheng Zheng, Wei Chen.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21771)] [[Project](https://lalbj.github.io/projects/PAI/)] [[Code]](https://github.com/LALBJ/PAI)<br>
+
 ## Material Transfer
 
 **ZeST: Zero-Shot Material Transfer from a Single Image.**<br>
