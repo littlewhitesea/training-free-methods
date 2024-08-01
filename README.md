@@ -1,5 +1,11 @@
 # training-free-methods
-This is a repository to collect recent training-free algorithms, which can run on a low-end GPU such as Tesla T4.
+This is a repository to collect recent training-free algorithms, which can run on a single GPU with no more than 24GB.
+
+## Multimodal Large Language Models
+
+**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
+*Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
 
 ## Material Transfer
 
