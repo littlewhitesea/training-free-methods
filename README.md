@@ -107,7 +107,7 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://co
 
 **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis.**<br>
 *Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github.com/LeonHLJ/FouriScale)<br>
+ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github.com/LeonHLJ/FouriScale)<br>
 
 **FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition.**<br>
 *Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou.*<br>
