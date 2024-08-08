@@ -55,7 +55,7 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization.**<br>
 *Kien T. Pham, Jingye Chen, Qifeng Chen.*<br>
-ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] <br>
+ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham3105.github.io/tale/)] [[Code]](https://github.com/tkpham3105/TALE)<br>
 
 **AccDiffusion: An Accurate Method for Higher-Resolution Image Generation.**<br>
 *Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji.*<br>
