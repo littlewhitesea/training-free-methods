@@ -69,6 +69,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.16476)] [[Project](https://shuweis
 *Quynh Phung, Songwei Ge, Jia-Bin Huang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.04337)] [[Project](https://instruct-vis-zero.github.io/)]<br>
 
+**Faster Diffusion via Temporal Attention Decomposition.**<br>
+*Haozhe Liu, Wentian Zhang, Jinheng Xie, Francesco Faccio, Mengmeng Xu, Tao Xiang, Mike Zheng Shou, Juan-Manuel Perez-Rua, Jürgen Schmidhuber.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02747v2)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)]<br>
+
 **DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
 *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
