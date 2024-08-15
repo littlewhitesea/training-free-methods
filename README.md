@@ -53,6 +53,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**MagicFace: Training-free Universal-Style Human Image Customized Synthesis.**<br>
+*Yibin Wang, Weizhong Zhang, Cheng Jin.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.07433)] [[Project](https://codegoat24.github.io/MagicFace/)] [[Code]](https://github.com/CodeGoat24/MagicFace)<br>
+
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization.**<br>
 *Kien T. Pham, Jingye Chen, Qifeng Chen.*<br>
 ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham3105.github.io/tale/)] [[Code]](https://github.com/tkpham3105/TALE)<br>
