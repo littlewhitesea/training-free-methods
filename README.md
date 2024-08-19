@@ -1,6 +1,12 @@
 # training-free-methods
 This is a repository to collect recent training-free algorithms that can run on a single GPU with no more than 24GB of memory.
 
+## Model Acceleration
+
+**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future.**<br>
+*Guangyi Wang, Yuren Cai, Lijiang Li, Wei Peng, Songzhi Su.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
+
 ## Multimodal Large Language Models
 
 **ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
