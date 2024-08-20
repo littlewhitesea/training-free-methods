@@ -59,6 +59,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Manipulation
 
+**TraDiffusion: Trajectory-Based Training-Free Image Generation.**<br>
+*Mingrui Wu, Oucheng Huang, Jiayi Ji, Jiale Li, Xinyue Cai, Huafeng Kuang, Jianzhuang Liu, Xiaoshuai Sun, Rongrong Ji.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.09739)] [[Code]](https://github.com/och-mac/TraDiffusion)<br>
+
 **MagicFace: Training-free Universal-Style Human Image Customized Synthesis.**<br>
 *Yibin Wang, Weizhong Zhang, Cheng Jin.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.07433)] [[Project](https://codegoat24.github.io/MagicFace/)] [[Code]](https://github.com/CodeGoat24/MagicFace)<br>
