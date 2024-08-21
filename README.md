@@ -57,7 +57,11 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
 
-## Image Manipulation
+## Image Generation
+
+**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning.**<br>
+*Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.11001)] [[Project](https://haoningwu3639.github.io/MegaFusion/)] [[Code]](https://github.com/ShaochengShen/MegaFusion/)<br>
 
 **TraDiffusion: Trajectory-Based Training-Free Image Generation.**<br>
 *Mingrui Wu, Oucheng Huang, Jiayi Ji, Jiale Li, Xinyue Cai, Huafeng Kuang, Jianzhuang Liu, Xiaoshuai Sun, Rongrong Ji.*<br>
@@ -66,10 +70,6 @@ arxiv 2024. [[PDF](https://arxiv.org/abs/2408.09739)] [[Code]](https://github.co
 **MagicFace: Training-free Universal-Style Human Image Customized Synthesis.**<br>
 *Yibin Wang, Weizhong Zhang, Cheng Jin.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.07433)] [[Project](https://codegoat24.github.io/MagicFace/)] [[Code]](https://github.com/CodeGoat24/MagicFace)<br>
-
-**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization.**<br>
-*Kien T. Pham, Jingye Chen, Qifeng Chen.*<br>
-ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham3105.github.io/tale/)] [[Code]](https://github.com/tkpham3105/TALE)<br>
 
 **AccDiffusion: An Accurate Method for Higher-Resolution Image Generation.**<br>
 *Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji.*<br>
@@ -83,29 +83,13 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.16476)] [[Project](https://shuweis
 *Quynh Phung, Songwei Ge, Jia-Bin Huang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.04337)] [[Project](https://instruct-vis-zero.github.io/)]<br>
 
-**Faster Diffusion via Temporal Attention Decomposition.**<br>
-*Haozhe Liu, Wentian Zhang, Jinheng Xie, Francesco Faccio, Mengmeng Xu, Tao Xiang, Mike Zheng Shou, Juan-Manuel Perez-Rua, Jürgen Schmidhuber.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02747v2)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)]<br>
-
-**DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
-*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
-
 **FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition.**<br>
 *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2405.13870)] [[Code]](https://github.com/aim-uofa/FreeCustom)<br>
 
-**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model.**<br>
-*Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao.*<br>
-Siggraph 2024. [[PDF](https://arxiv.org/pdf/2405.10316)] [[Project](https://analogist2d.github.io/)] [[Code]](https://github.com/edward3862/Analogist)<br>
-
 **Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation.**<br>
 *Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, Xipeng Cao, Quan Chen, Han Li, Di Dong, Peng Jiang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.06948)]<br>
-
-**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion.**<br>
-*Ziyue Zhang, Mingbao Lin, Rongrong Ji.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.17230)]<br>
 
 **DemoFusion: Democratising High-Resolution Image Generation With No $$$.**<br>
 *Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma.*<br>
@@ -115,14 +99,6 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2311.16973.pdf)] [[Project]](https://ruo
 *Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Zhenyuan Chen, Yao Tang, Yuhao Chen, Wengang Cao, Jiajun Liang.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/pdf/2311.17528.pdf)] [[Project]](https://hidiffusion.github.io/) [[Code]](https://github.com/megvii-research/HiDiffusion)<br>
 
-**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.**<br>
-*Mingbao Lin, Zhihang Lin, Wengyi Zhan, Liujuan Cao, Rongrong Ji.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.15141.pdf)] [[Project]](https://github.com/lmbxmu/CutDiffusion)<br>
-
-**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models.**<br>
-*Wei Wu, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni B. Chan.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.11895.pdf)] <br>
-
 **Training-Free Consistent Text-to-Image Generation.**<br>
 *Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://consistory-paper.github.io/)<br>
@@ -130,6 +106,36 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://co
 **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis.**<br>
 *Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github.com/LeonHLJ/FouriScale)<br>
+
+## Image Manipulation
+
+**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization.**<br>
+*Kien T. Pham, Jingye Chen, Qifeng Chen.*<br>
+ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham3105.github.io/tale/)] [[Code]](https://github.com/tkpham3105/TALE)<br>
+
+**Faster Diffusion via Temporal Attention Decomposition.**<br>
+*Haozhe Liu, Wentian Zhang, Jinheng Xie, Francesco Faccio, Mengmeng Xu, Tao Xiang, Mike Zheng Shou, Juan-Manuel Perez-Rua, Jürgen Schmidhuber.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02747v2)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)]<br>
+
+**DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
+*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
+
+**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model.**<br>
+*Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao.*<br>
+Siggraph 2024. [[PDF](https://arxiv.org/pdf/2405.10316)] [[Project](https://analogist2d.github.io/)] [[Code]](https://github.com/edward3862/Analogist)<br>
+
+**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion.**<br>
+*Ziyue Zhang, Mingbao Lin, Rongrong Ji.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.17230)]<br>
+
+**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.**<br>
+*Mingbao Lin, Zhihang Lin, Wengyi Zhan, Liujuan Cao, Rongrong Ji.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.15141.pdf)] [[Project]](https://github.com/lmbxmu/CutDiffusion)<br>
+
+**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models.**<br>
+*Wei Wu, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni B. Chan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.11895.pdf)] <br>
 
 **FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition.**<br>
 *Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou.*<br>
