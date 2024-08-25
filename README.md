@@ -63,6 +63,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 *Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.11001)] [[Project](https://haoningwu3639.github.io/MegaFusion/)] [[Code]](https://github.com/ShaochengShen/MegaFusion/)<br>
 
+**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance.**<br>
+*Younghyun Kim, Geunmin Hwang, Junyu Zhang, Eunbyung Park.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2406.18459)] [[Project](https://yhyun225.github.io/DiffuseHigh/)] [[Code]](https://github.com/yhyun225/DiffuseHigh)<br>
+
 **TraDiffusion: Trajectory-Based Training-Free Image Generation.**<br>
 *Mingrui Wu, Oucheng Huang, Jiayi Ji, Jiale Li, Xinyue Cai, Huafeng Kuang, Jianzhuang Liu, Xiaoshuai Sun, Rongrong Ji.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.09739)] [[Code]](https://github.com/och-mac/TraDiffusion)<br>
