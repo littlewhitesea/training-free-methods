@@ -113,6 +113,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github
 
 ## Image Manipulation
 
+**Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing.**<br>
+*Vadim Titov, Madina Khalmatova, Alexandra Ivanova, Dmitry Vetrov, Aibek Alanov.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2409.01322)] [[Code]](https://github.com/FusionBrainLab/Guide-and-Rescale)<br>
+
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization.**<br>
 *Kien T. Pham, Jingye Chen, Qifeng Chen.*<br>
 ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham3105.github.io/tale/)] [[Code]](https://github.com/tkpham3105/TALE)<br>
