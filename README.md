@@ -113,6 +113,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github
 
 ## Image Manipulation
 
+**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model.**<br>
+*Runyi Li, Xuhan Sheng, Weiqi Li, Jian Zhang.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2404.10312)] [[Project](https://lirunyi2001.github.io/projects/omnissr/)] [[Code]](https://github.com/LiRunyi2001/OmniSSR)<br>
+
 **Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing.**<br>
 *Vadim Titov, Madina Khalmatova, Alexandra Ivanova, Dmitry Vetrov, Aibek Alanov.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2409.01322)] [[Code]](https://github.com/FusionBrainLab/Guide-and-Rescale)<br>
