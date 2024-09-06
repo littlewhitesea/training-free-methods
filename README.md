@@ -59,6 +59,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention.**<br>
+*Susung Hong.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] [[Code]](https://github.com/SusungHong/SEG-SDXL)<br>
+
 **MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning.**<br>
 *Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.11001)] [[Project](https://haoningwu3639.github.io/MegaFusion/)] [[Code]](https://github.com/ShaochengShen/MegaFusion/)<br>
