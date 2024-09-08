@@ -59,6 +59,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis.**<br>
+*Aishwarya Agarwal, Srikrishna Karanam, Balaji Vasan Srinivasan.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)]<br>
+
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention.**<br>
 *Susung Hong.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] [[Code]](https://github.com/SusungHong/SEG-SDXL)<br>
