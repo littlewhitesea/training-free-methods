@@ -165,6 +165,12 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.07536.pdf)] [[Project](https://genf
 *Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-diffusion.github.io/)] [[Code]](https://github.com/MichalGeyer/plug-and-play)<br>
 
+## Video Generation
+
+**MotionMaster: Training-free Camera Motion Transfer For Video Generation.**<br>
+*Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma.*<br>
+ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.com/sjtuplayer/MotionMaster)<br>
+
 ## Video Editing
 
 **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices.**<br>
