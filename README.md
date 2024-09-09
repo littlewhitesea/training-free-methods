@@ -175,7 +175,7 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices.**<br>
 *Nathaniel Cohen, Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli.*<br>
-ICML 2024. [[PDF](https://arxiv.org/pdf/2405.12211)] [[Project](https://matankleiner.github.io/slicedit/)] [[Code]](https://matankleiner.github.io/slicedit/)<br>
+ICML 2024. [[PDF](https://arxiv.org/pdf/2405.12211)] [[Project](https://matankleiner.github.io/slicedit/)] [[Code]](https://github.com/fallenshock/Slicedit)<br>
 
 **FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing.**<br>
 *Yuren Cong, Mengmeng Xu, Christian Simon, Shoufa Chen, Jiawei Ren, Yanping Xie, Juan-Manuel Perez-Rua, Bodo Rosenhahn, Tao Xiang, Sen He.*<br>
