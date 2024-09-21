@@ -121,6 +121,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github
 
 ## Image Manipulation
 
+**360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation.**<br>
+*Hai Wang, Jing-Hao Xue.*<br>
+WACV 2025. [[PDF](https://arxiv.org/abs/2409.08397)] [[Project](https://littlewhitesea.github.io/360PanT.github.io/)] [[Code]](https://github.com/littlewhitesea/360PanT)<br>
+
 **OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model.**<br>
 *Runyi Li, Xuhan Sheng, Weiqi Li, Jian Zhang.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/abs/2404.10312)] [[Project](https://lirunyi2001.github.io/projects/omnissr/)] [[Code]](https://github.com/LiRunyi2001/OmniSSR)<br>
