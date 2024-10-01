@@ -43,7 +43,7 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07008)] [[Project](https://sooyeon
 
 **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance.**<br>
 *Kuan Heng Lin, Sicheng Mo, Ben Klingher, Fangzhou Mu, Bolei Zhou.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] [[Code]](https://github.com/genforce/ctrl-x)<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/pdf/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] [[Code]](https://github.com/genforce/ctrl-x)<br>
 
 **RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control.**<br>
 *Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.*<br>
