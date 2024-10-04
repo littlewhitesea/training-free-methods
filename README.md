@@ -65,7 +65,7 @@ arxiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)]<br>
 
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention.**<br>
 *Susung Hong.*<br>
-arxiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] [[Code]](https://github.com/SusungHong/SEG-SDXL)<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2408.00760)] [[Code]](https://github.com/SusungHong/SEG-SDXL)<br>
 
 **MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning.**<br>
 *Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang.*<br>
