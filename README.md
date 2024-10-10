@@ -59,6 +59,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation.**<br>
+*Boyuan Cao, Jiaxin Ye, Yujie Wei, Hongming Shan.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2410.06055)] [[Code]](https://github.com/kmittle/AP-LDM)<br>
+
 **Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis.**<br>
 *Aishwarya Agarwal, Srikrishna Karanam, Balaji Vasan Srinivasan.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)]<br>
