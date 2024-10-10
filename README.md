@@ -1,5 +1,5 @@
 # training-free-methods
-This is a repository to collect recent training-free algorithms that can run on a single GPU with no more than 24GB of memory.
+This is a repository to collect recent training-free algorithms relevant to image generation and manipulation that can run on a single GPU with no more than 24GB of memory.
 
 ## Model Acceleration
 
