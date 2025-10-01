@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Stitch: Training-Free Position Control in Multimodal Diffusion Transformers.**<br>
+*Jessica Bader, Mateusz Pach, Maria A. Bravo, Serge Belongie, Zeynep Akata.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.26644)] [[Code]](https://github.com/ExplainableML/Stitch)<br>
+
 **SemanticControl: A Training-Free Approach for Handling Loosely Aligned Visual Conditions in ControlNet.**<br>
 *Woosung Joung, Daewon Chae, Jinkyu Kim.*<br>
 BMVC 2025. [[PDF](https://arxiv.org/abs/2509.21938)]  [[Project]](https://mung3477.github.io/semantic-control/) [[Code]](https://github.com/mung3477/SemanticControl)<br>
