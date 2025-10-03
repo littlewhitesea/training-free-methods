@@ -538,6 +538,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**FreeViS: Training-free Video Stylization with Inconsistent References.**<br>
+*Jiacong Xu, Yiqun Mei, Ke Zhang, Vishal M. Patel.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.01686)] [[Project](https://xujiacong.github.io/FreeViS/)] [[Code]](https://xujiacong.github.io/FreeViS/)<br>
+
 **ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment.**<br>
 *Yiyang Chen, Xuanhua He, Xiujun Ma, Yue Ma.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.17818)] [[Project](https://yychen233.github.io/ContextFlow-page/)] [[Code]](https://github.com/yyChen233/ContextFlow)<br>
