@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**PEO: Training-Free Aesthetic Quality Enhancement in Pre-Trained Text-to-Image Diffusion Models with Prompt Embedding Optimization.**<br>
+*Hovhannes Margaryan, Bo Wan, Tinne Tuytelaars.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.02599)] [[Code]](https://github.com/marghovo/PEO)<br>
+
 **Stitch: Training-Free Position Control in Multimodal Diffusion Transformers.**<br>
 *Jessica Bader, Mateusz Pach, Maria A. Bravo, Serge Belongie, Zeynep Akata.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.26644)] [[Code]](https://github.com/ExplainableML/Stitch)<br>
