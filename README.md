@@ -470,6 +470,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation.**<br>
+*Yang Xiao, Gen Li, Kaiyuan Deng, Yushu Wu, Zheng Zhan, Yanzhi Wang, Xiaolong Ma, Bo Hui.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.05367)] [[Code](https://github.com/NKUShaw/LightCache)]<br>
+
 **DiTraj: training-free trajectory control for video diffusion transformer.**<br>
 *Cheng Lei, Jiayu Zhang, Yue Ma, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.21839)] <br>
