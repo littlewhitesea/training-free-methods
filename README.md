@@ -270,6 +270,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Teleportraits: Training-Free People Insertion into Any Scene.**<br>
+*Jialu Gao, K J Joseph, Fernando De La Torre.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.05660)]<br>
+
 **Token Painter: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models.**<br>
 *Longtao Jiang, Mingfei Han, Lei Chen, Yongqiang Yu, Feng Zhao, Xiaojun Chang, Zhihui Li.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.23919)]<br>
