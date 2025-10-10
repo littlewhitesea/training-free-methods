@@ -270,6 +270,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**RetouchLLM: Training-free White-box Image Retouching.**<br>
+*Moon Ye-Bin, Roy Miles, Tae-Hyun Oh, Ismail Elezi, Jiankang Deng.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.08054)]<br>
+
 **Teleportraits: Training-Free People Insertion into Any Scene.**<br>
 *Jialu Gao, K J Joseph, Fernando De La Torre.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.05660)]<br>
