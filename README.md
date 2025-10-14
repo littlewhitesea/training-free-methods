@@ -394,6 +394,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model.**<br>
+*Honghui Yuan, Keiji Yanai.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.10910)]<br>
+
 **Training-Free Multi-Style Fusion Through Reference-Based Adaptive Modulation.**<br>
 *Xu Liu, Yibo Lu, Xinxian Wang, Xinyu Wu.*<br>
 ACPR 2025. [[PDF](https://arxiv.org/abs/2509.18602)]<br>
