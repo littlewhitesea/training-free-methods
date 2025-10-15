@@ -478,6 +478,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback.**<br>
+*Xingpei Ma, Shenneng Huang, Jiaran Cai, Yuansheng Guan, Shen Zheng, Hanfeng Zhao, Qiang Zhang, Shunsi Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.12089)] [[Project](https://playmate111.github.io/Playmate2/)] [[Code](https://github.com/Playmate111/Playmate2)]<br>
+
 **LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation.**<br>
 *Yang Xiao, Gen Li, Kaiyuan Deng, Yushu Wu, Zheng Zhan, Yanzhi Wang, Xiaolong Ma, Bo Hui.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.05367)] [[Code](https://github.com/NKUShaw/LightCache)]<br>
