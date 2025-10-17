@@ -274,6 +274,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Coupled Diffusion Sampling for Training-Free Multi-View Image Editing.**<br>
+*Hadi Alzayer, Yunzhi Zhang, Chen Geng, Jia-Bin Huang, Jiajun Wu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.14981)] [[Project](https://coupled-diffusion.github.io/)] [[Code]](https://github.com/HadiZayer/coupled-diffusion)<br>
+
 **RetouchLLM: Training-free White-box Image Retouching.**<br>
 *Moon Ye-Bin, Roy Miles, Tae-Hyun Oh, Ismail Elezi, Jiankang Deng.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.08054)]<br>
