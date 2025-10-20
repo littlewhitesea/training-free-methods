@@ -625,6 +625,6 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diff
 
 **NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks.**<br>
 *Junliang Ye, Shenghao Xie, Ruowen Zhao, Zhengyi Wang, Hongyu Yan, Wenqiang Zu, Lei Ma, Jun Zhu.*<br>
-ICLR 2024. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyjl.github.io/Nano3D/)] [[Code]](https://github.com/JAMESYJL/Nano3D)<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyjl.github.io/Nano3D/)] [[Code]](https://github.com/JAMESYJL/Nano3D)<br>
 
 [🔝 Return to Top](#top)
