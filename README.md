@@ -11,6 +11,7 @@ If you find any missed resources or errors, feel free to open an issue or make a
 - [Material Transfer](#material-transfer)
 - [Video Generation](#video-generation)
 - [Video Manipulation](#video-manipulation)
+- [3D Manipulation](#3d-manipulation)
 
 ## Image Generation
 
@@ -617,5 +618,13 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flat
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing.**<br>
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diffusion-tokenflow.github.io/)] [[Code]](https://github.com/omerbt/TokenFlow)<br>
+
+[🔝 Return to Top](#top)
+
+## 3D Manipulation
+
+**NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks.**<br>
+*Junliang Ye, Shenghao Xie, Ruowen Zhao, Zhengyi Wang, Hongyu Yan, Wenqiang Zu, Lei Ma, Jun Zhu.*<br>
+ICLR 2024. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyjl.github.io/Nano3D/)] [[Code]](https://github.com/JAMESYJL/Nano3D)<br>
 
 [🔝 Return to Top](#top)
