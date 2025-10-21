@@ -15,6 +15,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Stroke2Sketch: Harnessing Stroke Attributes for Training-Free Sketch Generation.**<br>
+*Rui Yang, Huining Li, Yiyi Long, Xiaojun Wu, Shengfeng He.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2510.16319)] [[Code]](https://github.com/rane7/Stroke2Sketch)<br>
+
 **MosaicDiff: Training-free Structural Pruning for Diffusion Model Acceleration Reflecting Pretraining Dynamics.**<br>
 *Bowei Guo, Shengkun Tang, Cong Zeng, Zhiqiang Shen.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2510.11962)] [[Code]](https://github.com/bwguo105/MosaicDiff)<br>
