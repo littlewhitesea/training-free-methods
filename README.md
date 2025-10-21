@@ -275,6 +275,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing.**<br>
+*Zixin Yin, Ling-Hao Chen, Lionel Ni, Xili Dai.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.17803)] [[Project](https://zxyin.github.io/ConsistEdit/)] [[Code]](https://github.com/zxYin/ConsistEdit_Code)<br>
+
 **Coupled Diffusion Sampling for Training-Free Multi-View Image Editing.**<br>
 *Hadi Alzayer, Yunzhi Zhang, Chen Geng, Jia-Bin Huang, Jiajun Wu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.14981)] [[Project](https://coupled-diffusion.github.io/)] [[Code]](https://github.com/HadiZayer/coupled-diffusion)<br>
@@ -570,6 +574,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 [🔝 Return to Top](#top)
 
 ## Video Manipulation
+
+**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing.**<br>
+*Zixin Yin, Ling-Hao Chen, Lionel Ni, Xili Dai.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.17803)] [[Project](https://zxyin.github.io/ConsistEdit/)] [[Code]](https://github.com/zxYin/ConsistEdit_Code)<br>
 
 **FreeViS: Training-free Video Stylization with Inconsistent References.**<br>
 *Jiacong Xu, Yiqun Mei, Ke Zhang, Vishal M. Patel.*<br>
