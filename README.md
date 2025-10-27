@@ -495,6 +495,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**BachVid: Training-Free Video Generation with Consistent Background and Character.**<br>
+*Han Yan, Xibin Song, Yifu Wang, Hongdong Li, Pan Ji, Chao Ma.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.21696)] [[Project](https://wolfball.github.io/bachvid/)] [[Code](https://github.com/wolfball/BachVid)]<br>
+
 **Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback.**<br>
 *Xingpei Ma, Shenneng Huang, Jiaran Cai, Yuansheng Guan, Shen Zheng, Hanfeng Zhao, Qiang Zhang, Shunsi Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.12089)] [[Project](https://playmate111.github.io/Playmate2/)] [[Code](https://github.com/Playmate111/Playmate2)]<br>
