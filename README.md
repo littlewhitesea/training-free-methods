@@ -583,6 +583,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**VALA: Learning Latent Anchors for Training-Free and Temporally Consistent Video Editing.**<br>
+*Zhangkai Wu, Xuhui Fan, Zhongyuan Xie, Kaize Shi, Longbing Cao.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.22970)]<br>
+
 **ConsistEdit: Highly Consistent and Precise Training-free Visual Editing.**<br>
 *Zixin Yin, Ling-Hao Chen, Lionel Ni, Xili Dai.*<br>
 SIGGRAPH Asia 2025. [[PDF](https://arxiv.org/abs/2510.17803)] [[Project](https://zxyin.github.io/ConsistEdit/)] [[Code]](https://github.com/zxYin/ConsistEdit_Code)<br>
