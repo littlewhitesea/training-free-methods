@@ -15,6 +15,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation.**<br>
+*Phillip Mueller, Talip Uenlue, Sebastian Schmidt, Marcel Kollovieh, Jiajie Fan, Stephan Guennemann, Lars Mikelsons.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2510.22337)] [[Code]](https://github.com/Phillip-M97/ICCV_GeoDiff)<br>
+
 **Stroke2Sketch: Harnessing Stroke Attributes for Training-Free Sketch Generation.**<br>
 *Rui Yang, Huining Li, Yiyi Long, Xiaojun Wu, Shengfeng He.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2510.16319)] [[Code]](https://github.com/rane7/Stroke2Sketch)<br>
