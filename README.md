@@ -583,6 +583,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**FAME: Fairness-aware Attention-modulated Video Editing.**<br>
+*Zhangkai Wu, Xuhui Fan, Zhongyuan Xie, Kaize Shi, Zhidong Li, Longbing Cao.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.22960)]<br>
+
 **VALA: Learning Latent Anchors for Training-Free and Temporally Consistent Video Editing.**<br>
 *Zhangkai Wu, Xuhui Fan, Zhongyuan Xie, Kaize Shi, Longbing Cao.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.22970)]<br>
