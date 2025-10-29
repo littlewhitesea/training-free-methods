@@ -15,6 +15,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**ETC: training-free diffusion models acceleration with Error-aware Trend Consistency.**<br>
+*Jiajian Xie, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.24129)]<br>
+
 **GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation.**<br>
 *Phillip Mueller, Talip Uenlue, Sebastian Schmidt, Marcel Kollovieh, Jiajie Fan, Stephan Guennemann, Lars Mikelsons.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2510.22337)] [[Code]](https://github.com/Phillip-M97/ICCV_GeoDiff)<br>
