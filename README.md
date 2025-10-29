@@ -11,6 +11,7 @@ If you find any missed resources or errors, feel free to open an issue or make a
 - [Material Transfer](#material-transfer)
 - [Video Generation](#video-generation)
 - [Video Manipulation](#video-manipulation)
+- [3D Generation](#3d-generation)
 - [3D Manipulation](#3d-manipulation)
 
 ## Image Generation
@@ -654,6 +655,14 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flat
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing.**<br>
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diffusion-tokenflow.github.io/)] [[Code]](https://github.com/omerbt/TokenFlow)<br>
+
+[🔝 Return to Top](#top)
+
+## 3D Generation
+
+**TRELLISWorld: Training-Free World Generation from Object Generators.**<br>
+*Hanke Chen, Yuan Liu, Minchen Li.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.23880)]<br>
 
 [🔝 Return to Top](#top)
 
