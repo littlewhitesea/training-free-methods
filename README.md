@@ -287,6 +287,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation.**<br>
+*Agus Gunawan, Samuel Teodoro, Yun Chen, Soo Ye Kim, Jihyong Oh, Munchurl Kim.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.24093)] [[Project](https://kaist-viclab.github.io/omnitext-site)]<br>
+
 **ConsistEdit: Highly Consistent and Precise Training-free Visual Editing.**<br>
 *Zixin Yin, Ling-Hao Chen, Lionel Ni, Xili Dai.*<br>
 SIGGRAPH Asia 2025. [[PDF](https://arxiv.org/abs/2510.17803)] [[Project](https://zxyin.github.io/ConsistEdit/)] [[Code]](https://github.com/zxYin/ConsistEdit_Code)<br>
