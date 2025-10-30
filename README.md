@@ -288,6 +288,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**RegionE: Adaptive Region-Aware Generation for Efficient Image Editing.**<br>
+*Pengtao Chen, Xianfang Zeng, Maosen Zhao, Mingzhu Shen, Peng Ye, Bangyin Xiang, Zhibo Wang, Wei Cheng, Gang Yu, Tao Chen.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2510.25590)] [[Code]](https://github.com/Peyton-Chen/RegionE)<br>
+
 **OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation.**<br>
 *Agus Gunawan, Samuel Teodoro, Yun Chen, Soo Ye Kim, Jihyong Oh, Munchurl Kim.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.24093)] [[Project](https://kaist-viclab.github.io/omnitext-site)]<br>
