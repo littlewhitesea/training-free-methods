@@ -660,6 +660,10 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diff
 
 ## 3D Generation
 
+**FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion.**<br>
+*Chuhao Chen, Isabella Liu, Xinyue Wei, Hao Su, Minghua Liu.*<br>
+SIGGRAPH Asia 2025. [[PDF](https://arxiv.org/abs/2510.25765)] [[Project](https://czzzzh.github.io/FreeArt3D/)] [[Code]](https://github.com/CzzzzH/FreeArt3D)<br>
+
 **TRELLISWorld: Training-Free World Generation from Object Generators.**<br>
 *Hanke Chen, Yuan Liu, Minchen Li.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.23880)]<br>
