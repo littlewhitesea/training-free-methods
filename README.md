@@ -288,6 +288,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing.**<br>
+*Sung-Hoon Yoon, Minghan Li, Gaspard Beaudouin, Congcong Wen, Muhammad Rafay Azhar, Mengyu Wang.*<br>
+NeurIPS 2025. [[PDF](https://arxiv.org/abs/2510.25970)] [[Code]](https://github.com/Harvard-AI-and-Robotics-Lab/SplitFlow)<br>
+
 **RegionE: Adaptive Region-Aware Generation for Efficient Image Editing.**<br>
 *Pengtao Chen, Xianfang Zeng, Maosen Zhao, Mingzhu Shen, Peng Ye, Bangyin Xiang, Zhibo Wang, Wei Cheng, Gang Yu, Tao Chen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.25590)] [[Code]](https://github.com/Peyton-Chen/RegionE)<br>
