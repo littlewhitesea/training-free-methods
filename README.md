@@ -16,6 +16,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**TAUE: Training-free Noise Transplant and Cultivation Diffusion Model.**<br>
+*Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.02580)]  [[Project]](https://iyatomilab.github.io/TAUE/) [[Code]](https://github.com/IyatomiLab/TAUE)<br>
+
 **ETC: training-free diffusion models acceleration with Error-aware Trend Consistency.**<br>
 *Jiajian Xie, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.24129)]<br>
