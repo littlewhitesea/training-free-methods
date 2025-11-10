@@ -292,6 +292,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction.**<br>
+*Jiang Lin, Xinyu Chen, Song Wu, Zhiqiu Zhang, Jizhi Zhang, Ye Wang, Qiang Tang, Qian Wang, Jian Yang, Zili Yi.*<br>
+NeurIPS 2025. [[PDF](https://arxiv.org/abs/2511.05219)]<br>
+
 **SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing.**<br>
 *Sung-Hoon Yoon, Minghan Li, Gaspard Beaudouin, Congcong Wen, Muhammad Rafay Azhar, Mengyu Wang.*<br>
 NeurIPS 2025. [[PDF](https://arxiv.org/abs/2510.25970)] [[Code]](https://github.com/Harvard-AI-and-Robotics-Lab/SplitFlow)<br>
