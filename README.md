@@ -16,6 +16,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Infinite-Story: A Training-Free Consistent Text-to-Image Generation.**<br>
+*Jihun Park, Kyoungmin Lee, Jongmin Gim, Hyeonseo Jo, Minseok Oh, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Minwoo Choi, Sunghoon Im.*<br>
+AAAI 2026. [[PDF](https://arxiv.org/abs/2511.13002)]<br>
+
 **TAUE: Training-free Noise Transplant and Cultivation Diffusion Model.**<br>
 *Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.02580)]  [[Project]](https://iyatomilab.github.io/TAUE/) [[Code]](https://github.com/IyatomiLab/TAUE)<br>
