@@ -16,6 +16,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation.**<br>
+*Yunfeng Wu, Jiayi Song, Zhenxiong Tan, Zihao He, Songhua Liu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.14712)] [[Code]](https://github.com/WillWu111/FreeSwim)<br>
+
 **TAUE: Training-free Noise Transplant and Cultivation Diffusion Model.**<br>
 *Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.02580)]  [[Project]](https://iyatomilab.github.io/TAUE/) [[Code]](https://github.com/IyatomiLab/TAUE)<br>
