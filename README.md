@@ -526,7 +526,7 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 **FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation.**<br>
 *Yunfeng Wu, Jiayi Song, Zhenxiong Tan, Zihao He, Songhua Liu.*<br>
-arxiv 2025. [[PDF](https://arxiv.org/abs/2511.14712)] [[Code]](https://github.com/WillWu111/FreeSwim)<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.14712)] [[Code](https://github.com/WillWu111/FreeSwim)]<br>
 
 **BachVid: Training-Free Video Generation with Consistent Background and Character.**<br>
 *Han Yan, Xibin Song, Yifu Wang, Hongdong Li, Pan Ji, Chao Ma.*<br>
