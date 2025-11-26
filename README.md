@@ -16,6 +16,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Training-Free Generation of Diverse and High-Fidelity Images via Prompt Semantic Space Optimization.**<br>
+*Debin Meng, Chen Jin, Zheng Gao, Yanran Li, Ioannis Patras, Georgios Tzimiropoulos.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.19811)]<br>
+
 **A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control.**<br>
 *Jiawei Lin, Guanlong Jiao, Jianjin Xu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.20401)]<br>
