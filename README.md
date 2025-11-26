@@ -16,6 +16,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control.**<br>
+*Jiawei Lin, Guanlong Jiao, Jianjin Xu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.20401)]<br>
+
 **Infinite-Story: A Training-Free Consistent Text-to-Image Generation.**<br>
 *Jihun Park, Kyoungmin Lee, Jongmin Gim, Hyeonseo Jo, Minseok Oh, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Minwoo Choi, Sunghoon Im.*<br>
 AAAI 2026. [[PDF](https://arxiv.org/abs/2511.13002)]<br>
