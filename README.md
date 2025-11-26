@@ -528,6 +528,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Block Cascading: Training Free Acceleration of Block-Causal Video Models.**<br>
+*Hmrishav Bandyopadhyay, Nikhil Pinnaparaju, Rahim Entezari, Jim Scott, Yi-Zhe Song, Varun Jampani.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.20426)] [[Project](https://hmrishavbandy.github.io/block_cascading_page/index.html)]<br>
+
 **FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation.**<br>
 *Yunfeng Wu, Jiayi Song, Zhenxiong Tan, Zihao He, Songhua Liu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.14712)] [[Code](https://github.com/WillWu111/FreeSwim)]<br>
