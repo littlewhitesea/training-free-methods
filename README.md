@@ -712,6 +712,10 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2510.23880)]<br>
 
 ## 3D Manipulation
 
+**AnchorFlow: Training-Free 3D Editing via Latent Anchor-Aligned Flows.**<br>
+*Zhenglin Zhou, Fan Ma, Chengzhuo Gui, Xiaobo Xia, Hehe Fan, Yi Yang, Tat-Seng Chua.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2511.22357)] [[Code]](https://github.com/ZhenglinZhou/AnchorFlow)<br>
+
 **NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks.**<br>
 *Junliang Ye, Shenghao Xie, Ruowen Zhao, Zhengyi Wang, Hongyu Yan, Wenqiang Zu, Lei Ma, Jun Zhu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyjl.github.io/Nano3D/)] [[Code]](https://github.com/JAMESYJL/Nano3D)<br>
