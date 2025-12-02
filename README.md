@@ -13,6 +13,7 @@ If you find any missed resources or errors, feel free to open an issue or make a
 - [Video Manipulation](#video-manipulation)
 - [3D Generation](#3d-generation)
 - [3D Manipulation](#3d-manipulation)
+- [4D Manipulation](#4d-manipulation)
 
 ## Image Generation
 
@@ -727,5 +728,13 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2511.22357)] [[Code]](https://github.co
 **NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks.**<br>
 *Junliang Ye, Shenghao Xie, Ruowen Zhao, Zhengyi Wang, Hongyu Yan, Wenqiang Zu, Lei Ma, Jun Zhu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyjl.github.io/Nano3D/)] [[Code]](https://github.com/JAMESYJL/Nano3D)<br>
+
+[🔝 Return to Top](#top)
+
+## 4D Manipulation
+
+**Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer.**<br>
+*Dong In Lee, Hyungjun Doh, Seunggeun Chi, Runlin Duan, Sangpil Kim, Karthik Ramani.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.00677)] [[Project](https://di-lee.github.io/dynamic-eDiTor/)]<br>
 
 [🔝 Return to Top](#top)
