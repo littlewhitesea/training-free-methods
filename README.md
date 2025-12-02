@@ -540,6 +540,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**AlignVid: Training-Free Attention Scaling for Semantic Fidelity in Text-Guided Image-to-Video Generation.**<br>
+*Yexin Liu, Wen-Jie Shu, Zile Huang, Haoze Zheng, Yueze Wang, Manyuan Zhang, Ser-Nam Lim, Harry Yang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.01334)]<br>
+
 **Block Cascading: Training Free Acceleration of Block-Causal Video Models.**<br>
 *Hmrishav Bandyopadhyay, Nikhil Pinnaparaju, Rahim Entezari, Jim Scott, Yi-Zhe Song, Varun Jampani.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.20426)] [[Project](https://hmrishavbandy.github.io/block_cascading_page/index.html)]<br>
