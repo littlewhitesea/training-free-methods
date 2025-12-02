@@ -304,6 +304,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Reversible Inversion for Training-Free Exemplar-guided Image Editing.**<br>
+*Yuke Li, Lianli Gao, Ji Zhang, Pengpeng Zeng, Lichuan Xiang, Hongkai Wen, Heng Tao Shen, Jingkuan Song.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.01382)] [[Code]](https://github.com/liyuke65535/ReInversion)<br>
+
 **FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction.**<br>
 *Jiang Lin, Xinyu Chen, Song Wu, Zhiqiu Zhang, Jizhi Zhang, Ye Wang, Qiang Tang, Qian Wang, Jian Yang, Zili Yi.*<br>
 NeurIPS 2025. [[PDF](https://arxiv.org/abs/2511.05219)]<br>
