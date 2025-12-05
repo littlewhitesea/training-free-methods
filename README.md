@@ -541,6 +541,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression.**<br>
+*Jung Yi, Wooseok Jang, Paul Hyunbin Cho, Jisu Nam, Heeji Yoon, Seungryong Kim.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.05081)] [[Project](https://cvlab-kaist.github.io/DeepForcing/)] [[Code](https://github.com/cvlab-kaist/DeepForcing)]<br>
+
 **AlignVid: Training-Free Attention Scaling for Semantic Fidelity in Text-Guided Image-to-Video Generation.**<br>
 *Yexin Liu, Wen-Jie Shu, Zile Huang, Haoze Zheng, Yueze Wang, Manyuan Zhang, Ser-Nam Lim, Harry Yang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.01334)]<br>
