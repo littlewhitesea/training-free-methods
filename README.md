@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation.**<br>
+*Yao Teng, Zhihuan Jiang, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.07503)]<br>
+
 **Training-Free Generation of Diverse and High-Fidelity Images via Prompt Semantic Space Optimization.**<br>
 *Debin Meng, Chen Jin, Zheng Gao, Yanran Li, Ioannis Patras, Georgios Tzimiropoulos.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.19811)]<br>
