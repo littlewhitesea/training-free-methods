@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**TextGuider: Training-Free Guidance for Text Rendering via Attention Alignment.**<br>
+*Kanghyun Baek, Sangyub Lee, Jin Young Choi, Jaewoo Song, Daemin Park, Jooyoung Choi, Chaehun Shin, Bohyung Han, Sungroh Yoon.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.09350)]<br>
+
 **SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation.**<br>
 *Yao Teng, Zhihuan Jiang, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.07503)]<br>
