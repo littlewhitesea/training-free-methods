@@ -549,6 +549,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**CineLOG: A Training Free Approach for Cinematic Long Video Generation.**<br>
+*Zahra Dehghanian, Morteza Abolghasemi, Hamid Beigy, Hamid R. Rabiee.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.12209)] [[Project](https://cine-log.pages.dev/)]<br>
+
 **Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression.**<br>
 *Jung Yi, Wooseok Jang, Paul Hyunbin Cho, Jisu Nam, Heeji Yoon, Seungryong Kim.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.05081)] [[Project](https://cvlab-kaist.github.io/DeepForcing/)] [[Code](https://github.com/cvlab-kaist/DeepForcing)]<br>
