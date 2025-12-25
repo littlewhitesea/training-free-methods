@@ -313,6 +313,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting.**<br>
+*Chao Gong, Dong Li, Yingwei Pan, Jingjing Chen, Ting Yao, Tao Mei.*<br>
+AAAI 2026. [[PDF](https://arxiv.org/abs/2512.21104)] [[Code]](https://github.com/CharlesGong12/FreeInpaint)<br>
+
 **Reversible Inversion for Training-Free Exemplar-guided Image Editing.**<br>
 *Yuke Li, Lianli Gao, Ji Zhang, Pengpeng Zeng, Lichuan Xiang, Hongkai Wen, Heng Tao Shen, Jingkuan Song.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.01382)] [[Code]](https://github.com/liyuke65535/ReInversion)<br>
