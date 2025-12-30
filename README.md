@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**ASemConsist: Adaptive Semantic Feature Control for Training-Free Identity-Consistent Generation.**<br>
+*Shin seong Kim, Minjung Shin, Hyunin Cho, Youngjung Uh.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.23245)]  [[Project]](https://minjung-s.github.io/asemconsist) [[Code]](https://github.com/GrainSack/ASemConsist)<br>
+
 **AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization.**<br>
 *Binhe Yu, Zhen Wang, Kexin Li, Yuqian Yuan, Wenqiao Zhang, Long Chen, Juncheng Li, Jun Xiao, Yueting Zhuang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.23537)]<br>
