@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization.**<br>
+*Binhe Yu, Zhen Wang, Kexin Li, Yuqian Yuan, Wenqiao Zhang, Long Chen, Juncheng Li, Jun Xiao, Yueting Zhuang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2512.23537)]<br>
+
 **TextGuider: Training-Free Guidance for Text Rendering via Attention Alignment.**<br>
 *Kanghyun Baek, Sangyub Lee, Jin Young Choi, Jaewoo Song, Daemin Park, Jooyoung Choi, Chaehun Shin, Bohyung Han, Sungroh Yoon.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.09350)]<br>
