@@ -321,6 +321,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection.**<br>
+*Ruiqiang Zhang, Hengyi Wang, Chang Liu, Guanjie Wang, Zehua Ma, Weiming Zhang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.00535)]<br>
+
 **FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting.**<br>
 *Chao Gong, Dong Li, Yingwei Pan, Jingjing Chen, Ting Yao, Tao Mei.*<br>
 AAAI 2026. [[PDF](https://arxiv.org/abs/2512.21104)] [[Code]](https://github.com/CharlesGong12/FreeInpaint)<br>
