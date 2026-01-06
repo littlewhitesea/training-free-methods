@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Luminark: Training-free, Probabilistically-Certified Watermarking for General Vision Generative Models.**<br>
+*Jiayi Xu, Zhang Zhang, Yuanrui Zhang, Ruitao Chen, Yixian Xu, Tianyu He, Di He.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.01085)]<br>
+
 **Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion.**<br>
 *Binglei Li, Mengping Yang, Zhiyu Tan, Junping Zhang, Hao Li.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.02211)]<br>
