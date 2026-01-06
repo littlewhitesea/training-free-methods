@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion.**<br>
+*Binglei Li, Mengping Yang, Zhiyu Tan, Junping Zhang, Hao Li.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.02211)]<br>
+
 **ASemConsist: Adaptive Semantic Feature Control for Training-Free Identity-Consistent Generation.**<br>
 *Shin seong Kim, Minjung Shin, Hyunin Cho, Youngjung Uh.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.23245)]  [[Project]](https://minjung-s.github.io/asemconsist) [[Code]](https://github.com/GrainSack/ASemConsist)<br>
