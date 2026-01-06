@@ -325,6 +325,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing.**<br>
+*Yujie Hu, Zecheng Tang, Xu Jiang, Weiqi Li, Jian Zhang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.01915)]<br>
+
 **FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection.**<br>
 *Ruiqiang Zhang, Hengyi Wang, Chang Liu, Guanjie Wang, Zehua Ma, Weiming Zhang.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.00535)]<br>
