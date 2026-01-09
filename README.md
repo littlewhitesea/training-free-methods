@@ -577,6 +577,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache.**<br>
+*Kunyang Li, Mubarak Shah, Yuzhang Shang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.04359)]<br>
+
 **CineLOG: A Training Free Approach for Cinematic Long Video Generation.**<br>
 *Zahra Dehghanian, Morteza Abolghasemi, Hamid Beigy, Hamid R. Rabiee.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.12209)] [[Project](https://cine-log.pages.dev/)]<br>
