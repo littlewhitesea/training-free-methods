@@ -689,6 +689,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**Object-WIPER : Training-Free Object and Associated Effect Removal in Videos.**<br>
+*Saksham Singh Kushwaha, Sayan Nag, Yapeng Tian, Kuldeep Kulkarni.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.06391)] [[Project](https://sakshamsingh1.github.io/object_wiper_webpage/)]<br>
+
 **FAME: Fairness-aware Attention-modulated Video Editing.**<br>
 *Zhangkai Wu, Xuhui Fan, Zhongyuan Xie, Kaize Shi, Zhidong Li, Longbing Cao.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2510.22960)]<br>
