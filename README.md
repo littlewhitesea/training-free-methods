@@ -577,6 +577,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models.**<br>
+*Haonan Zhong, Wei Song, Tingxu Han, Maurice Pagnucco, Jingling Xue, Yang Song.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.20791)]<br>
+
 **PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache.**<br>
 *Kunyang Li, Mubarak Shah, Yuzhang Shang.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.04359)]<br>
