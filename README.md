@@ -757,6 +757,10 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diff
 
 ## 3D Generation
 
+**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models.**<br>
+*Hongyu Zhou, Zisen Shao, Sheng Miao, Pan Wang, Dongfeng Bai, Bingbing Liu, Yiyi Liao.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.20857)] [[Project](https://xdimlab.github.io/freefix/)] [[Code]](https://github.com/hyzhou404/FreeFix)<br>
+
 **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration.**<br>
 *Mengyu Yang, Yanming Yang, Chenyi Xu, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2511.22533)] [[Project](https://fast3dcache-agi.github.io/)] [[Code]](https://github.com/Westlake-AGI-Lab/Fast3Dcache)<br>
