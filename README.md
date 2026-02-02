@@ -761,6 +761,10 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diff
 
 ## 3D Generation
 
+**TTSA3R: Training-Free Temporal-Spatial Adaptive Persistent State for Streaming 3D Reconstruction.**<br>
+*Zhijie Zheng, Xinhao Xiang, Jiawei Zhang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2601.22615)]<br>
+
 **FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models.**<br>
 *Hongyu Zhou, Zisen Shao, Sheng Miao, Pan Wang, Dongfeng Bai, Bingbing Liu, Yiyi Liao.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.20857)] [[Project](https://xdimlab.github.io/freefix/)] [[Code]](https://github.com/hyzhou404/FreeFix)<br>
