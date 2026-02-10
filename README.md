@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation.**<br>
+*Guandong Li, Yijun Ding.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2602.07554)]<br>
+
 **Luminark: Training-free, Probabilistically-Certified Watermarking for General Vision Generative Models.**<br>
 *Jiayi Xu, Zhang Zhang, Yuanrui Zhang, Ruitao Chen, Yixian Xu, Tianyu He, Di He.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.01085)]<br>
