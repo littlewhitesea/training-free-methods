@@ -693,6 +693,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**VFace: A Training-Free Approach for Diffusion-Based Video Face Swapping.**<br>
+*Sanoojan Baliah, Yohan Abeysinghe, Rusiru Thushara, Khan Muhammad, Abhinav Dhall, Karthik Nandakumar, Muhammad Haris Khan.*<br>
+WACV 2026. [[PDF](https://arxiv.org/abs/2602.07835)] [[Code](https://github.com/Sanoojan/VFace)]<br>
+
 **Object-WIPER : Training-Free Object and Associated Effect Removal in Videos.**<br>
 *Saksham Singh Kushwaha, Sayan Nag, Yapeng Tian, Kuldeep Kulkarni.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.06391)] [[Project](https://sakshamsingh1.github.io/object_wiper_webpage/)]<br>
