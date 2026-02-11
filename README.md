@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing.**<br>
+*Yan Luo, Henry Huang, Todd Y. Zhou, Mengyu Wang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2602.09449)]<br>
+
 **FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation.**<br>
 *Guandong Li, Yijun Ding.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2602.07554)]<br>
