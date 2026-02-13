@@ -809,8 +809,14 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2510.15019)] [[Project](https://jamesyj
 
 ## 4D Manipulation
 
+**Light4D: Training-Free Extreme Viewpoint 4D Video Relighting.**<br>
+*Zhenghuang Wu, Kang Chen, Zeyu Zhang, Hao Tang.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2602.11769)] [[Project](https://aigeeksgroup.github.io/Light4D)] [[Code]](https://github.com/AIGeeksGroup/Light4D)<br>
+
 **Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer.**<br>
 *Dong In Lee, Hyungjun Doh, Seunggeun Chi, Runlin Duan, Sangpil Kim, Karthik Ramani.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2512.00677)] [[Project](https://di-lee.github.io/dynamic-eDiTor/)]<br>
+
+
 
 [🔝 Return to Top](#top)
