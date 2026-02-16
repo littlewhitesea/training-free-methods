@@ -17,6 +17,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion.**<br>
+*Hong-Phuc Lai, Phong Nguyen, Anh Tran.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2602.12769)]<br>
+
 **Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing.**<br>
 *Yan Luo, Henry Huang, Todd Y. Zhou, Mengyu Wang.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2602.09449)]<br>
