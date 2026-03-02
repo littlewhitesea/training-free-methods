@@ -589,6 +589,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls.**<br>
+*Qianxun Xu, Chenxi Song, Yujun Cai, Chi Zhang.*<br>
+CVPR 2026. [[PDF](https://arxiv.org/abs/2602.23956)] [[Project](https://switchcraft-project.github.io/)] [[Code](https://github.com/Westlake-AGI-Lab/SwitchCraft)]<br>
+
 **FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models.**<br>
 *Haonan Zhong, Wei Song, Tingxu Han, Maurice Pagnucco, Jingling Xue, Yang Song.*<br>
 arxiv 2026. [[PDF](https://arxiv.org/abs/2601.20791)]<br>
