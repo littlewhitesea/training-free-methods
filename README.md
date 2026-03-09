@@ -709,6 +709,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**FlowMotion: Training-Free Flow Guidance for Video Motion Transfer.**<br>
+*Zhen Wang, Youcan Xu, Jun Xiao, Long Chen.*<br>
+arxiv 2026. [[PDF](https://arxiv.org/abs/2603.06289)]<br>
+
 **VFace: A Training-Free Approach for Diffusion-Based Video Face Swapping.**<br>
 *Sanoojan Baliah, Yohan Abeysinghe, Rusiru Thushara, Khan Muhammad, Abhinav Dhall, Karthik Nandakumar, Muhammad Haris Khan.*<br>
 WACV 2026. [[PDF](https://arxiv.org/abs/2602.07835)] [[Code](https://github.com/Sanoojan/VFace)]<br>
