@@ -417,6 +417,10 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2507.23300)] [[Code]](https://github.com
 *Zhaotong Yang, Yuhui Li, Shengfeng He, Xinzhe Li, Yangyang Xu, Junyu Dong, Yong Du.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2507.15037)] [[Code]](https://github.com/Jerome-Young/OmniVTON)<br>
 
+**Cora: Correspondence-aware Image Editing Using Few-Step Diffusion.**<br>
+*Amir Alimohammadi, Aryan Mikaeili, Sauradip Nag, Negar Hassanpour, Andrea Tagliasacchi, Ali Mahdavi-Amiri.*<br>
+SIGGRAPH 2025. [[PDF](https://arxiv.org/abs/2505.23907)] [[Project](https://cora-edit.github.io/)] [[Code]](https://github.com/alimohammadiamirhossein/cora)<br>
+
 **Towards Generalized and Training-Free Text-Guided Semantic Manipulation.**<br>
 *Yu Hong, Xiao Cai, Pengpeng Zeng, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.17269)]<br>
